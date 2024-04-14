@@ -2,9 +2,6 @@
 Repository for updating class hooks used by the [IGExperiments Xposed module](https://github.com/xHookman/IGexperiments), which enables developer options in Instagram. By hosting the hook updates separately, we ensure that the main module remains clean and focused on its primary functionality.
 
 ### Objectives:
-- **Centralized Hook Management:** Maintains a single, centralized JSON file (`hooks.json`) that lists all necessary , which enables developer options in Instagram. By isolating the hook updates in a separate repository, we make it easier for contributors to make changes without interacting with the core logic of the main module.
-
-### Objectives:
 - **Centralized Hook Management:** Provides a single, centralized JSON file (`hooks.json`) that lists all necessary class hooks, simplifying the process of updating and maintaining these entries.
 - **Community-Driven Updates:** Encourages community contributions to keep the hooks up-to-date with the latest Instagram app changes, enhancing the module's reliability and functionality.
 - **Automated Fetching:** Integrates with the main IGExperiments module to automatically fetch the latest hook configurations, ensuring seamless updates and compatibility.
