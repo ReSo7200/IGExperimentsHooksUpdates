@@ -1,4 +1,4 @@
-# IGExperimentsUpdates
+# IGExperimentsHooksUpdates
 Repository for updating class hooks used by the [IGExperiments Xposed module](https://github.com/xHookman/IGexperiments), which enables developer options in Instagram. By hosting the hook updates separately, we ensure that the main module remains clean and focused on its primary functionality.
 
 ### Objectives:
