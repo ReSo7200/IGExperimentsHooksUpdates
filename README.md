@@ -11,6 +11,7 @@ Repository for updating class hooks used by the [IGExperiments Xposed module](ht
 2. **Update the JSON File:** Modify the `hooks.json` file by adding new entries or updating existing ones as needed based on new versions of Instagram or functionality changes.
 3. **Pull Request:** Submit a pull request to merge your changes. Ensure your updates are well-documented and tested.
 
+### How to Support new versions:
 First you will need to use [Jadx](https://github.com/skylot/jadx)
  to decompile an [Instagram apk](https://www.apkmirror.com/apk/instagram/).
 
