@@ -20,3 +20,12 @@ The main IGExperiments Xposed module will periodically check this repository for
 If you find any issues or if you have suggestions for improvements, please submit an issue on this repository. For broader discussions or proposals, the repository's discussions section is a great place to collaborate with other developers.
 
 Together, we can ensure that the IGExperiments module continues to offer great utility to Instagram developers by providing timely and effective updates.
+
+## Authors
+
+- [@xHookman](https://github.com/xHookman)
+- [@ReSo7200](https://github.com/ReSo7200)
+
+### Contributors
+ - [@Vasilis](https://github.com/down-bad)
+ - [@rmnscnce](https://github.com/rmnscnce)
