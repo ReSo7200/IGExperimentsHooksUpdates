@@ -22,17 +22,17 @@ First you will need to use [Jadx](https://github.com/skylot/jadx)
 ```
 c0at.A0J("is_employee", Boolean.valueOf(AnonymousClass196.A00(userSession)));
 ```
-<img src="https://github.com/xHookman/IGexperiments/blob/master/readme/1.png?raw=true">
+<img src="https://github.com/ReSo7200/IGExperimentsHooksUpdates/blob/main/Readme/1.png?raw=true">
 
 Double click on the method name, A00:
 
-<img src="https://github.com/xHookman/IGexperiments/blob/master/readme/2.png?raw=true">
+<img src="https://github.com/ReSo7200/IGExperimentsHooksUpdates/blob/main/Readme/2.png?raw=true">
 
 Now go at top, you will see a line like this: 
 ```
 /* renamed from: X.196 reason: invalid class name */
 ```
-<img src="https://github.com/xHookman/IGexperiments/blob/master/readme/3.png?raw=true">
+<img src="https://github.com/ReSo7200/IGExperimentsHooksUpdates/blob/main/Readme/3.png?raw=true">
 
 
 You now know the class to hook: X.196
